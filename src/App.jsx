@@ -531,7 +531,7 @@ function App() {
               Your ultimate destination for movie discovery
             </p>
             <p className="text-gray-500">
-              Harsh Sharma &copy; 2025-26
+              Sahil Kumar Gupta &copy; 2025-26
             </p>
           </div>
         </div>
